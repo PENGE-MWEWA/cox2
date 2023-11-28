@@ -1,0 +1,15 @@
+C:\Users\PENGE\Documents\cox2\bin\Debug\net6.0\cox2.exe
+C:\Users\PENGE\Documents\cox2\bin\Debug\net6.0\cox2.deps.json
+C:\Users\PENGE\Documents\cox2\bin\Debug\net6.0\cox2.runtimeconfig.json
+C:\Users\PENGE\Documents\cox2\bin\Debug\net6.0\cox2.dll
+C:\Users\PENGE\Documents\cox2\bin\Debug\net6.0\ref\cox2.dll
+C:\Users\PENGE\Documents\cox2\bin\Debug\net6.0\cox2.pdb
+C:\Users\PENGE\Documents\cox2\obj\Debug\net6.0\cox2.csproj.AssemblyReference.cache
+C:\Users\PENGE\Documents\cox2\obj\Debug\net6.0\cox2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PENGE\Documents\cox2\obj\Debug\net6.0\cox2.AssemblyInfoInputs.cache
+C:\Users\PENGE\Documents\cox2\obj\Debug\net6.0\cox2.AssemblyInfo.cs
+C:\Users\PENGE\Documents\cox2\obj\Debug\net6.0\cox2.csproj.CoreCompileInputs.cache
+C:\Users\PENGE\Documents\cox2\obj\Debug\net6.0\cox2.dll
+C:\Users\PENGE\Documents\cox2\obj\Debug\net6.0\ref\cox2.dll
+C:\Users\PENGE\Documents\cox2\obj\Debug\net6.0\cox2.pdb
+C:\Users\PENGE\Documents\cox2\obj\Debug\net6.0\cox2.genruntimeconfig.cache
